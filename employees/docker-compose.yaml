@@ -18,3 +18,6 @@ services:
       DATABASE_HOST: postgres
     healthcheck:
       test: curl --fail http://localhost:5000 | exit 1
+      interval: 5s
+      retries: 3
+      timeout: 30s
