@@ -1,0 +1,7 @@
+### List employee
+GET http://localhost:81/api/employees
+
+### Create employee
+POST http://localhost:81/api/employees
+
+{"name": "Jack Doe"}

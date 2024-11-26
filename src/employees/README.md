@@ -2,17 +2,15 @@
 
 This is a Python web application with Flask, managing employees.
 
-* Language Python 3.0
+* Language: Python 3
 * Framework: Flask
-* Web application 
+* Web application
 * VCS: GitHub
 
-Employee has an id and a name.
+Employee entity has an id and a name.
 
-This application has a HTML UI and REST API.
+This application has a HTML UI and a REST API.
 
 Use Postgresql.
 
-Cica
-
-Demo2
+Demo 2-2.
